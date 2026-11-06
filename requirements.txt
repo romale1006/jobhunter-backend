@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+google-genai
+pypdf
+reportlab
+duckduckgo-search
+beautifulsoup4
+httpx
+python-multipart
